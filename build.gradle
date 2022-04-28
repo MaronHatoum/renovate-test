@@ -20,7 +20,7 @@ dependencies {
 
 
     // Test
-    implementation(group: 'org.springframework', name: 'spring-expression', version: '5.3.18') {
+    implementation(group: 'org.springframework', name: 'spring-expression', version: '5.3.19') {
         exclude module: 'spring-jcl'
     }
 }
